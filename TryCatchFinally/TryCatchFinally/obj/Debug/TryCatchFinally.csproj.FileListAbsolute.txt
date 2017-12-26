@@ -1,0 +1,7 @@
+C:\Users\Babooon\Documents\Visual Studio 2017\Projects\TryCatchFinally\TryCatchFinally\bin\Debug\TryCatchFinally.exe.config
+C:\Users\Babooon\Documents\Visual Studio 2017\Projects\TryCatchFinally\TryCatchFinally\bin\Debug\TryCatchFinally.exe
+C:\Users\Babooon\Documents\Visual Studio 2017\Projects\TryCatchFinally\TryCatchFinally\bin\Debug\TryCatchFinally.pdb
+C:\Users\Babooon\Documents\Visual Studio 2017\Projects\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.csprojResolveAssemblyReference.cache
+C:\Users\Babooon\Documents\Visual Studio 2017\Projects\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\Babooon\Documents\Visual Studio 2017\Projects\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.exe
+C:\Users\Babooon\Documents\Visual Studio 2017\Projects\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.pdb
